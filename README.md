@@ -1,4 +1,4 @@
-# sharepoint-commands
+# Sharepoint-Commands
 
 <b> Connect SharePoint Online Management Shell </b>
 <br/>
