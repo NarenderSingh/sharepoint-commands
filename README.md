@@ -15,3 +15,9 @@ Add-SPOSiteCollectionAppCatalog -Site https://Contoso.sharepoint.com/sites/conto
 <b> Allow Custom Script on SharePoint Site Collection level </b>
 <br/>
 Set-SPOsite https://Contoso.sharepoint.com/sites/contoso -DenyAddAndCustomizePages 0
+
+<br/>
+
+Import List Template in SharePoint Online using PowerShell
+Set-SPOsite https://Contoso.sharepoint.com/sites/contoso -DenyAddAndCustomizePages 0
+
