@@ -18,7 +18,9 @@ Set-SPOsite https://Contoso.sharepoint.com/sites/contoso -DenyAddAndCustomizePag
 
 <br/>
 
-<b> Import List Template in SharePoint Online using PowerShell</b>
+<b> Import List Template in SharePoint Online using PowerShell</b><br/>
+<b> Custom SharePoint Online Master Page</b>
+
 <br/>
 Set-SPOsite https://Contoso.sharepoint.com/sites/contoso -DenyAddAndCustomizePages 0
 
